@@ -8,18 +8,18 @@ qb-target - https://github.com/BerkieBb/qb-target / https://github.com/loljoshie
 
 qb-menu - https://github.com/QBCore-framework/qb-menu / https://github.com/loljoshie/qb-menu
 
-qb-management - https://github.com/QBCore-framework/qb-management
+![qb-management](https://github.com/QBCore-framework/qb-management)
 
-qb-smallresources - https://github.com/QBCore-framework/qb-smallresources
+![qb-smallresources](https://github.com/QBCore-framework/qb-smallresources)
 
-qb-clothing - https://github.com/QBCore-framework/qb-clothing
+![qb-clothing](https://github.com/QBCore-framework/qb-clothing)
 
-Gabz Vanilla mlo - https://fivem.gabzv.com/package/4724693
+![Gabz Vanilla mlo](https://fivem.gabzv.com/package/4724693)
 
 
 ## Credits : 
 
-ss-vanilla job script by Stormy Scratch https://discord.gg/BZnUFcUKRT
+ss-vanilla job script by ![Stormy Scratch](https://discord.gg/BZnUFcUKRT)
 
 ## Insert into #qb-core --> shared
 1. Insert this lines to your qb-core/shared/items.lua
