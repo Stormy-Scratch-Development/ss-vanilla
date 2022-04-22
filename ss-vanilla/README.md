@@ -19,7 +19,7 @@ qb-menu - https://github.com/QBCore-framework/qb-menu / https://github.com/loljo
 
 ## Credits : 
 
-ss-vanilla job script by ![Stormy Scratch](https://discord.gg/BZnUFcUKRT)
+ss-vanilla job script by Stormy Scratch - https://discord.gg/BZnUFcUKRT
 
 ## Insert into #qb-core --> shared
 1. Insert this lines to your qb-core/shared/items.lua
