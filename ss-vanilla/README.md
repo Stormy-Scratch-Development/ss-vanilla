@@ -1,8 +1,8 @@
 ## Dependencies :
 
-QBCore Framework - https://github.com/QBCore-framework/qb-core
+![QBCore Framework](https://github.com/QBCore-framework/qb-core)
 
-PolyZone - https://github.com/mkafrin/PolyZone
+![PolyZone](https://github.com/mkafrin/PolyZone)
 
 qb-target - https://github.com/BerkieBb/qb-target / https://github.com/loljoshie/qb-target
 
