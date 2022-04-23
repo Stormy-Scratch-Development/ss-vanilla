@@ -166,7 +166,7 @@ RegisterNetEvent('ss-vanilla:garage:SpawnVehicle')
 AddEventHandler('ss-vanilla:garage:SpawnVehicle', function(vanilla)
     print("Made by Stormy Scratch")
     local vehicle = vanilla.vehicle 
-    local coords = { ['x'] = 24.95, ['y'] = -1590.2, ['z'] = 29.09, ['h'] = 229.33 }
+    local coords = { ['x'] = 141.11, ['y'] = -1279.98, ['z'] = 29.33, ['h'] = 298.38 }
     QBCore.Functions.SpawnVehicle(vehicle, function(veh)
         SetVehicleNumberPlateText(veh, "VANILLA"..tostring(math.random(1000, 9999)))
         exports['LegacyFuel']:SetFuel(veh, 100.0)
