@@ -515,24 +515,6 @@ Citizen.CreateThread(function()
         distance = 1.5
     })
 
-    exports[Config.Target]:AddBoxZone("MakeShot", vector3(16.14, -1597.64, 29.38), 0.7, 2, {
-        name="MakeShot",
-        heading=140,
-        debugPoly=Config.PolyZone,
-        minZ=28.0,
-        maxZ=30.0,
-    }, {
-        options = {
-            {
-                event = "qb-menu:drink:menu",
-                icon = "fas fa-box",
-                label = "Make Drink",
-                job = Config.Job,
-            },
-        },
-        distance = 1.5
-    })
-
     exports[Config.Target]:AddBoxZone("Garage", vector3(135.77, -1279.07, 29.36), 0.7, 0.7, {
         name="Garage",
         heading=30,
