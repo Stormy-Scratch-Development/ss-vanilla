@@ -524,9 +524,9 @@ Citizen.CreateThread(function()
     }, {
         options = {
             {
-                event = "qb-menu:vanilla",
+                event = "qb-menu:drink:menu",
                 icon = "fas fa-box",
-                label = "Make vanilla",
+                label = "Make Drink",
                 job = Config.Job,
             },
         },
